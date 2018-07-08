@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

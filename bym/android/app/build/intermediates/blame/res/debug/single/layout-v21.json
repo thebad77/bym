@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

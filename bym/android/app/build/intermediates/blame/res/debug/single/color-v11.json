@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

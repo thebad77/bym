@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-photo-view] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-linear-gradient] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/d8ddbe8ebba54cad40ae6844079155c5/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/b08e9299d5a43d09a91ab93b2c17132b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/e34b5e4fd7f79b5e444943249d72ac3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e6ecee4ad8488169bfb620c2e2d7ff6b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/21549dd313ca7cf029854e1d96447736/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/4eea33f110705e747d21ef2d7c8f3276/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/f9e72c4e30148b23e170b853b89abb44/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/52cbc8272dba19fa5df62658bfa8baaa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/550827faeb9e291614b6d7077da53286/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e87faa95943fa98ca5f9bff684d6440b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c9c868cb18c0f9d457e36ba3e46ef15b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/9fa5860d71f396fb5d7c14ce5e2b8967/AndroidManifest.xml:2:1-9:12
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/3ae873b2977b6e2931d63943b43d85ed/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/d78f7611ea14de076691ddddcc0f9080/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/685bf3962494e4dc34f918e874e751b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb91d4aaccf4c4ccead2efe3734c9839/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7e28411c270eb257084ea7c2041fefa8/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/41c08b4bcc251fb284f5ef6b245573f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b724f4dc9c7024add1cc4ef523667748/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/2d4ac93fd632c46d63ccf0440d0d8c07/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/a6fd0ac269502e9b7f115497a429e3d4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7503d9558b98c2c40153064762bc3ea8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/2662ef9e70213274551dd140643c6a18/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e83cf53a766502db8a9ca9f18a0686e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/1828e00000504679d87ca1c979143c94/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/e5c1b95e32fb03ab4b1eb23fb9ebee5b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/6850c888eb4bccb09baad097fa03f03c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/0c4336949493e92f132c5ed4deb7dbb8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/e5f2a3ad9f128c5498df120b389d2941/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/4ca8ef6060fd0a26a9377373885034b9/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:3:5-22
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/d8ddbe8ebba54cad40ae6844079155c5/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/d8ddbe8ebba54cad40ae6844079155c5/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:8:5-65
+MERGED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:10:5-28:19
+REJECTED from [:react-native-photo-view] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/release/AndroidManifest.xml:10:5-11:19
+REJECTED from [com.facebook.react:react-native:0.55.3] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/d8ddbe8ebba54cad40ae6844079155c5/AndroidManifest.xml:13:5-20
+REJECTED from [com.android.support:appcompat-v7:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.google.android.gms:play-services-vision:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/b08e9299d5a43d09a91ab93b2c17132b/AndroidManifest.xml:7:5-20
+REJECTED from [com.android.support:animated-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e6ecee4ad8488169bfb620c2e2d7ff6b/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.android.support:support-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/21549dd313ca7cf029854e1d96447736/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.android.support:support-v4:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/4eea33f110705e747d21ef2d7c8f3276/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-fragment:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/f9e72c4e30148b23e170b853b89abb44/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-media-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/52cbc8272dba19fa5df62658bfa8baaa/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-core-utils:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/550827faeb9e291614b6d7077da53286/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-core-ui:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e87faa95943fa98ca5f9bff684d6440b/AndroidManifest.xml:25:5-29:19
+REJECTED from [com.android.support:support-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c9c868cb18c0f9d457e36ba3e46ef15b/AndroidManifest.xml:25:5-29:19
+REJECTED from [me.relex:photodraweeview:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/3ae873b2977b6e2931d63943b43d85ed/AndroidManifest.xml:9:5-12:19
+REJECTED from [com.facebook.soloader:soloader:0.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb91d4aaccf4c4ccead2efe3734c9839/AndroidManifest.xml:3:3-17
+REJECTED from [org.webkit:android-jsc:r174650] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7e28411c270eb257084ea7c2041fefa8/AndroidManifest.xml:2:3-17
+REJECTED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/41c08b4bcc251fb284f5ef6b245573f5/AndroidManifest.xml:7:5-20
+REJECTED from [com.google.android.gms:play-services-base:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b724f4dc9c7024add1cc4ef523667748/AndroidManifest.xml:22:5-27:19
+REJECTED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/2d4ac93fd632c46d63ccf0440d0d8c07/AndroidManifest.xml:7:5-20
+REJECTED from [com.google.android.gms:play-services-basement:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/a6fd0ac269502e9b7f115497a429e3d4/AndroidManifest.xml:22:5-26:19
+REJECTED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7503d9558b98c2c40153064762bc3ea8/AndroidManifest.xml:22:5-20
+REJECTED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/6850c888eb4bccb09baad097fa03f03c/AndroidManifest.xml:22:5-20
+REJECTED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/0c4336949493e92f132c5ed4deb7dbb8/AndroidManifest.xml:22:5-20
+REJECTED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/e5f2a3ad9f128c5498df120b389d2941/AndroidManifest.xml:22:5-20
+REJECTED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/4ca8ef6060fd0a26a9377373885034b9/AndroidManifest.xml:22:5-20
+	tools:node
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:16:7-27
+	android:label
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.bym.MainActivity
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-photo-view] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-photo-view] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-photo-view/android/build/intermediates/manifests/full/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-linear-gradient] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/d8ddbe8ebba54cad40ae6844079155c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.3] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/react-native-0.55.3.aar/d8ddbe8ebba54cad40ae6844079155c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/b08e9299d5a43d09a91ab93b2c17132b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/b08e9299d5a43d09a91ab93b2c17132b/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/e34b5e4fd7f79b5e444943249d72ac3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/e34b5e4fd7f79b5e444943249d72ac3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e6ecee4ad8488169bfb620c2e2d7ff6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e6ecee4ad8488169bfb620c2e2d7ff6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/21549dd313ca7cf029854e1d96447736/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/21549dd313ca7cf029854e1d96447736/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/4eea33f110705e747d21ef2d7c8f3276/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/4eea33f110705e747d21ef2d7c8f3276/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/f9e72c4e30148b23e170b853b89abb44/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/f9e72c4e30148b23e170b853b89abb44/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/52cbc8272dba19fa5df62658bfa8baaa/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/52cbc8272dba19fa5df62658bfa8baaa/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/550827faeb9e291614b6d7077da53286/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/550827faeb9e291614b6d7077da53286/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e87faa95943fa98ca5f9bff684d6440b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/e87faa95943fa98ca5f9bff684d6440b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c9c868cb18c0f9d457e36ba3e46ef15b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/c9c868cb18c0f9d457e36ba3e46ef15b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/9fa5860d71f396fb5d7c14ce5e2b8967/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/9fa5860d71f396fb5d7c14ce5e2b8967/AndroidManifest.xml:5:5-7:41
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/3ae873b2977b6e2931d63943b43d85ed/AndroidManifest.xml:7:5-44
+MERGED from [me.relex:photodraweeview:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/photodraweeview-1.0.0.aar/3ae873b2977b6e2931d63943b43d85ed/AndroidManifest.xml:7:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/d78f7611ea14de076691ddddcc0f9080/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/d78f7611ea14de076691ddddcc0f9080/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/685bf3962494e4dc34f918e874e751b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/685bf3962494e4dc34f918e874e751b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb91d4aaccf4c4ccead2efe3734c9839/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/fb91d4aaccf4c4ccead2efe3734c9839/AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/41c08b4bcc251fb284f5ef6b245573f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/41c08b4bcc251fb284f5ef6b245573f5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b724f4dc9c7024add1cc4ef523667748/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/b724f4dc9c7024add1cc4ef523667748/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/2d4ac93fd632c46d63ccf0440d0d8c07/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/2d4ac93fd632c46d63ccf0440d0d8c07/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/a6fd0ac269502e9b7f115497a429e3d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/a6fd0ac269502e9b7f115497a429e3d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7503d9558b98c2c40153064762bc3ea8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/7503d9558b98c2c40153064762bc3ea8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/2662ef9e70213274551dd140643c6a18/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/2662ef9e70213274551dd140643c6a18/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e83cf53a766502db8a9ca9f18a0686e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/e83cf53a766502db8a9ca9f18a0686e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/1828e00000504679d87ca1c979143c94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/1828e00000504679d87ca1c979143c94/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/e5c1b95e32fb03ab4b1eb23fb9ebee5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/e5c1b95e32fb03ab4b1eb23fb9ebee5b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/6850c888eb4bccb09baad097fa03f03c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/6850c888eb4bccb09baad097fa03f03c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/0c4336949493e92f132c5ed4deb7dbb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/0c4336949493e92f132c5ed4deb7dbb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/e5f2a3ad9f128c5498df120b389d2941/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/e5f2a3ad9f128c5498df120b389d2941/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/4ca8ef6060fd0a26a9377373885034b9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/4ca8ef6060fd0a26a9377373885034b9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] /Users/tanguyduhamel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/77f2ede8ae76c7a4ad6b3d9400ca3c6b/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/node_modules/react-native-camera/android/build/intermediates/manifests/full/release/AndroidManifest.xml:17:9-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

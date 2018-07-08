@@ -1,0 +1,4 @@
+#Thu May 10 20:19:11 CEST 2018
+base.0=/Users/tanguyduhamel/Documents/rendu/EIP/bym/bym/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
